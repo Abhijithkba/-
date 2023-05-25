@@ -1,5 +1,5 @@
 # vim
-[._]*.sw[a-p]
+[.𝓐𝓷𝓰𝓵𝓮 𝔁 𝓶𝓾𝓼𝓲𝓬_]*.sw[a-p]
 
 # python
 /venv/
@@ -13,7 +13,7 @@ __pycache__/
 /*.ini
 /*.session
 /*.session-journal
-/downloads/
+/download/
 
 # pytgcalls
 /*.so
