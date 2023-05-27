@@ -1,5 +1,5 @@
 # vim
-[._]*.sw[a-p]
+[.musicbot_]*.sw[a-p]
 
 # python
 /venv/
