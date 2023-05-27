@@ -11,9 +11,9 @@ from pyrogram import Client
 
 
 async def main():
-    api_id = int(input("API ID: "))
-    api_hash = input("API HASH: ")
-    async with Client(":memory:", api_id=api_id, api_hash=api_hash) as app:
+    api_id = int(input("API ID:24695761 "))
+    api_hash = input("API HASH:5b45826254e82ee0173a66a2ef669653 ")
+    async with Client(":memory:", api_id=api_id,24695761 api_hash=api_hash5b45826254e82ee0173a66a2ef669653) as app:
         await app.send_message(
             "me",
             "**Pyrogram Session String**:\n\n"
